@@ -22,12 +22,19 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-You know how hard it is sometimes to manage group so here is the solution for you
+Hello, I'm Assistant Ninja
 
-I'm group manager bot and Anti-spam for RR Players🃏
+I'm here to help you to manage your groups.
+I have lots of handy features such as:
+‣ Warning system
+‣ Artificial intelligence
+‣ Flood control system
+‣ Note keeping system
+‣ Filters keeping system
+‣ Approvals and much more.
 
-Activate Anti-spam protection in your BM by this command : 
-/antispam on 
+So what are you waiting for?
+Add me in your groups and give me full rights to make me function well.
 
 Made by @NINJA1217 🤩
 
